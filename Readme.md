@@ -4,6 +4,6 @@ Simulates reaction diffusion system in JuliaLang and live renders the output, us
 
 Download the `reactiondiffusionminimal.ipynb` notebook and run all cells.  
 
-![](/home/sharon/CELESTE/PROJECTS/Reaction-Diffusion/Model1-SteadyState-Stripes.png)
+![](./Model1-SteadyState-Stripes.png)
 
 More models and functions to save the results as gifs, are available in the `reactiondiffusionancillary.ipynb` file (though very disorganized).
